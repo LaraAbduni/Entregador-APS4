@@ -28,7 +28,6 @@ Qual o tamanho do grid?
 
 É só colocar um inteiro positivo. Por exemplo, `4` gera um mapa 4 × 4 e `10` gera um mapa 10 × 10. Se digitar algo inválido, ele pergunta de novo.
 
-No Windows, se precisar, dá pra trocar `python` por `py`. A versão foi testada com Python 3.12.
 
 ## Como o cenário é montado
 
